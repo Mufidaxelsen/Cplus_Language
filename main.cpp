@@ -5,7 +5,7 @@
 using namespace std;            // std = Library bawaan dari C++
                                 // cout = c out
 int main () {                   // Dipanggil dengan = :: 
-    cout << "Halo adik rosaaa" << endl << "Cuteness" 
+    cout << "Halo adik Lintangg" << endl << "Cuteness" 
     << endl << endl << endl << "Muhammad Mufid Azhar";
 
     // Deklarasi variabel untuk interaksi

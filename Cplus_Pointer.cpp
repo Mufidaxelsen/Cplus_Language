@@ -11,3 +11,10 @@ int main() {
 
     return 0;
 }
+
+// Penjelasan:
+
+// angka → bernilai 10
+// &angka → alamat memori variabel angka
+// ptr → menyimpan alamat tersebut
+// *ptr → mengambil nilai di alamat tersebut (disebut dereference)
